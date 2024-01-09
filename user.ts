@@ -6,6 +6,7 @@ class User{
     //     this.position= position;
     //     this.weight=weight;
     // }
+    let truong="truong";
     callElevator(position:number,direction:[string,number], typeElevator:string):void{
         Manage1.callElevator(position,direction,typeElevator); 
     }
