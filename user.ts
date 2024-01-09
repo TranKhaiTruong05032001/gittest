@@ -15,7 +15,7 @@ class User{
         } 
     }
 }
-
+let aaaa= new User;
 let user1 = new User();
 export default user1;
 user1.callElevator(10,['goup',1],'normal');
